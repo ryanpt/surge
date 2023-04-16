@@ -1,0 +1,21 @@
+# SURGE MAC 自备的规则  2023-4-16
+# DOMAIN-SUFFIX,youtube.com   示例
+# IP-CIDR,74.125.0.0/16,no-resolve  示例
+
+# 以下是 922代理的规则
+DOMAIN-SUFFIX,922proxy.com
+DOMAIN-SUFFIX,proxys5.net
+IP-CIDR,49.51.0.0/16,no-resolve
+IP-CIDR,101.33.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,163.181.0.0/16,no-resolve
+IP-CIDR,47.246.0.0/16,no-resolve
+IP-CIDR,47.89.0.0/16,no-resolve
+IP-CIDR,47.98.0.0/16,no-resolve
+
+# 以下是 rola IP 的规则
+DOMAIN-SUFFIX,rola-ip.co
+DOMAIN-SUFFIX,rola.info
+
+# 以下是 九头蛇的 IP 的规则
+DOMAIN-SUFFIX,hydraproxy.com
