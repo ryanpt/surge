@@ -5,6 +5,7 @@
 # 以下是 922代理的规则
 DOMAIN-SUFFIX,922proxy.com
 DOMAIN-SUFFIX,proxys5.net
+DOMAIN-SUFFIX,huzonseeee.cn
 IP-CIDR,49.51.0.0/16,no-resolve
 IP-CIDR,101.33.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
