@@ -1,2 +1,2 @@
 # surge
-surget自建的规则
+surget 922之类代理 规则
