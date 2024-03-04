@@ -2,6 +2,11 @@
 # DOMAIN-SUFFIX,youtube.com   示例
 # IP-CIDR,74.125.0.0/16,no-resolve  示例
 
+
+DOMAIN-SUFFIX,stormproxies.cn
+DOMAIN-SUFFIX,stormip.cn
+
+
 # 以下是 922代理的规则
 DOMAIN-SUFFIX,922proxy.com
 DOMAIN-SUFFIX,proxys5.net
