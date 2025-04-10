@@ -83,7 +83,7 @@ TikTok = select, 🇺🇲 us001, icon-url=https://raw.githubusercontent.com/Kool
 # > PyaPal
 # RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list,苹果服务
 # > 广告拦截
-# RULE-SET,https://raw.githubusercontent.com/thNylHx/Tools/main/Ruleset/Surge/Block/Ads_ml.list,REJECT,pre-matching,extended-matching
+# RULE-SET,https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/AdBlock.list,REJECT,pre-matching,extended-matching
 # > 苹果服务
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple_All_No_Resolve.list,苹果服务
 # > GitHub
